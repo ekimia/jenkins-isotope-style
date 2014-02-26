@@ -44,7 +44,7 @@ a:hover {color: #64addd; font-weight: bolder;}
 
 #projectstatus {
   background: #171a22;
-  border-color: #434b65;
+  border-color: #434b65 #434b65 #434b65 #434b65;
 }
   
   #projectstatus tr:nth-of-type(odd) {
@@ -88,7 +88,7 @@ a:hover {color: #64addd; font-weight: bolder;}
   font-size: 1.3em; }
 
 #footer {
-  border-top: 1px solid #ccc; }
+  border-top: 1px solid ##434b65; }
 
 #view-message #description a img {
   padding-right: 4px; }
