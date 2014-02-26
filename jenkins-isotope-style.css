@@ -21,8 +21,8 @@ h1, h2, h3, h4, h5, h6 {
   #top-panel td > a {
     background: url("appkickJenkinsLogo.png") 0 0 no-repeat;
     display: block;
-    width: 130px;
-    height: 40px;
+    width: 400;
+    height: 113px;
     margin: 10px 0 10px 10px; }
     #top-panel td > a img {
       display: none; }
