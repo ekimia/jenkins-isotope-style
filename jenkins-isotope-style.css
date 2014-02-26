@@ -27,6 +27,10 @@ h1, h2, h3, h4, h5, h6 {
     #top-panel td > a img {
       display: none; }
 
+#main-table {
+   background: #171a22; 
+}
+
 #projectstatus {
   background: #171a22; }
   #projectstatus tr:nth-of-type(odd) {
