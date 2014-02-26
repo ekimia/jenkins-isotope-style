@@ -27,6 +27,28 @@ a:hover {color: #64addd; font-weight: bolder;}
   background: #EFEFEF;
 }
 
+#viewList td.inactive {
+  border: solid 1px #2f3e51;
+  border-bottom-color: #2f3e51;
+}
+
+#viewList td.inactive a {
+  color: #242b38;
+}
+
+#viewList td.active {
+  border: solid 1px #303e51;
+  background-color: #303e51;
+}
+
+#viewList td.filler {
+  border-bottom: solid 1px #303e51;
+}
+
+#viewList td.inactive:hover {
+  background-color: #242b38;
+}
+
 table {
     border: 1px solid #363d52;
 }
