@@ -144,7 +144,7 @@ th {
   font-size: 1.3em; }
 
 #footer {
-   border-top: none;
+   border-top: none !important;
 }
 
 #view-message #description a img {
