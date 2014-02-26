@@ -23,6 +23,10 @@ a:hover {color: #64addd; font-weight: bolder;}
   padding: 3px 4px 3px 4px;
 }
 
+table {
+    border: 1px solid #363d52;
+}
+
 th {
   border: 1px #333d51 solid;
   font-weight: bold;
