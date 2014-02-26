@@ -20,8 +20,6 @@ a:hover {color: #64addd; font-weight: bolder;}
 
 .bigtable tr {
   border: 1px solid #363d52;
-  border-right : 1px solid #363d52;
-  border-bottom : 1px solid #363d52;
   padding: 3px 4px 3px 4px;
 }
 
@@ -92,6 +90,8 @@ th {
 #projectstatus {
   border: 1px #333d51 solid;
   background: #171a22;
+    border-right : 1px solid #363d52;
+  border-bottom : 1px solid #363d52;
 }
   
   #projectstatus tr:nth-of-type(odd) {
