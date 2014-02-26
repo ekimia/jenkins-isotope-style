@@ -23,6 +23,10 @@ a:hover {color: #64addd; font-weight: bolder;}
   padding: 3px 4px 3px 4px;
 }
 
+table.pane > tbody > tr > td:last-child {
+border-right: none;
+}
+
 .top-sticker-inner {
   background: #EFEFEF;
 }
