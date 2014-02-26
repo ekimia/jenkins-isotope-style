@@ -83,11 +83,6 @@ th {
     #top-panel td > a img {
       display: none; }
 
-#main-table {
-  background: #171a22; 
-  border: 1px solid #363d52;
-}
-
 #projectstatus {
   border: 1px #333d51 solid;
   background: #171a22;
