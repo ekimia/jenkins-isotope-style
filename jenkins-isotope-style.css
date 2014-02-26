@@ -18,6 +18,11 @@ a:active {color: #6bbaed; font-weight: bold;}
 a:visited {color: #6bbaed; font-weight: bold;}
 a:hover {color: #64addd; font-weight: bolder;}
 
+.bigtable tr {
+  border: 1px solid #363d52;
+  padding: 3px 4px 3px 4px;
+}
+
 #top-panel {
   background: url("headerbackground.png"); }
   #top-panel td#login-field span a {
