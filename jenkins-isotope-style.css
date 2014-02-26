@@ -10,9 +10,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #4f7b94; }
   
-html {
-  text-color: #FFFFFF;
-}
+a:link {color: #0000ff; background: #ffffff; font-weight: bold;}
+a:active {color: #0000ff; background: #ffffff; font-weight: bold;}
+a:visited {color: #0000ff; background: #ffffff; font-weight: bold;}
+a:hover {color: #0000ff; background: #ffffff; font-weight: bolder;}
 
 #top-panel {
   background: url("headerbackground.png"); }
