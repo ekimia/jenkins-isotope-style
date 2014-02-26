@@ -39,12 +39,12 @@ a:hover {color: #64addd; font-weight: bolder;}
       display: none; }
 
 #main-table {
-   background: #171a22; 
+  background: #171a22; 
+  border-color: #434b65 #434b65 #434b65 #434b65;
 }
 
 #projectstatus {
   background: #171a22;
-  border-color: #434b65 #434b65 #434b65 #434b65;
 }
   
   #projectstatus tr:nth-of-type(odd) {
