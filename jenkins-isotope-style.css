@@ -5,17 +5,14 @@ body {
   background: -webkit-linear-gradient(top, #171a22 0%, #171a22 100%);
   background: -o-linear-gradient(top, #171a22 0%, #171a22 100%);
   background: -ms-linear-gradient(top, #171a22 0%, #171a22 100%);
-  background: linear-gradient(top, #171a22 0%, #171a22 100%); }
+  background: linear-gradient(top, #171a22 0%, #171a22 100%);
+  color: white;
+  font-family: Helvetica !important;
+   }
 
 h1, h2, h3, h4, h5, h6 {
   color: #4f7b94; }
-  
-  html *
-{
-   color: white;
-   font-family: Helvetica !important;
-}
-  
+
 a:link {color: #6bbaed; font-weight: bold;}
 a:active {color: #6bbaed; font-weight: bold;}
 a:visited {color: #6bbaed; font-weight: bold;}
