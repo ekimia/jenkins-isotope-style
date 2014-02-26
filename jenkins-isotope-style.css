@@ -144,7 +144,8 @@ th {
   font-size: 1.3em; }
 
 #footer {
-  border-top: 1px solid ##434b65; }
+   border-top: none;
+}
 
 #view-message #description a img {
   padding-right: 4px; }
