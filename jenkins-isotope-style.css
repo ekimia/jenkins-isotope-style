@@ -23,6 +23,10 @@ a:hover {color: #64addd; font-weight: bolder;}
   padding: 3px 4px 3px 4px;
 }
 
+.top-sticker-inner {
+  background: #EF0000;
+}
+
 table {
     border: 1px solid #363d52;
 }
