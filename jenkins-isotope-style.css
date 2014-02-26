@@ -44,7 +44,7 @@ a:hover {color: #64addd; font-weight: bolder;}
 
 #projectstatus {
   background: #171a22;
-  border: #434b65;
+  border-color: #434b65;
 }
   
   #projectstatus tr:nth-of-type(odd) {
