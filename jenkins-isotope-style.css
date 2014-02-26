@@ -40,7 +40,6 @@ a:hover {color: #64addd; font-weight: bolder;}
 
 #main-table {
   background: #171a22; 
-  border-color: #434b65 #434b65 #434b65 #434b65;
 }
 
 #projectstatus {
@@ -79,6 +78,10 @@ a:hover {color: #64addd; font-weight: bolder;}
   background: #171a22; }
   #main-panel > h1 {
     margin-top: 0; }
+    
+#tbody {
+    border-color: #434b65 #434b65 #434b65 #434b65;
+}
 
 #main-table {
   border-top: 0;
