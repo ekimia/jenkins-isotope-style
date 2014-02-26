@@ -52,10 +52,6 @@ a:hover {color: #64addd; font-weight: bolder;}
   background-color: #242b38;
 }
 
-table {
-    border: 1px solid #363d52;
-}
-
 th {
   border: 1px #333d51 solid;
   font-weight: bold;
@@ -85,6 +81,7 @@ th {
 
 #main-table {
   background: #171a22; 
+  border: 1px solid #363d52;
 }
 
 #projectstatus {
