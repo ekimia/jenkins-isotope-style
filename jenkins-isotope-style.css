@@ -11,7 +11,7 @@ body {
    }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #4f7b94; }
+  color: #666666; }
 
 a:link {color: #6bbaed; font-weight: bold;}
 a:active {color: #6bbaed; font-weight: bold;}
@@ -55,6 +55,3 @@ a:hover {color: #64addd; font-weight: bolder;}
 #footer {
    border-top: none !important;
 }
-
-#view-message #description a img {
-  padding-right: 4px; }
