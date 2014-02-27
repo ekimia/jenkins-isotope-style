@@ -51,14 +51,7 @@ border-right: none;
     margin: 10px 10px 10px 10px; }
     #top-panel td > a img {
       display: none; }
-
-#projectstatus {
-  border: 1px #333d51 solid;
-  background: #171a22;
-    border-right : 1px solid #363d52;
-  border-bottom : 1px solid #363d52;
-}
-
+      
 #left-top-nav {
   border-left: none; }
 
