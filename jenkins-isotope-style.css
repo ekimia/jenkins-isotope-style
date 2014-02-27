@@ -18,15 +18,6 @@ a:active {color: #6bbaed; font-weight: bold;}
 a:visited {color: #6bbaed; font-weight: bold;}
 a:hover {color: #64addd; font-weight: bolder;}
 
-.bigtable tr {
-  border: 1px solid #363d52;
-  padding: 3px 4px 3px 4px;
-}
-
-table.pane > tbody > tr > td:last-child {
-border-right: none;
-}
-
 .top-sticker-inner {
   background: #EFEFEF;
 }
@@ -51,9 +42,7 @@ border-right: none;
     margin: 10px 10px 10px 10px; }
     #top-panel td > a img {
       display: none; }
-      
-#left-top-nav {
-  border-left: none; }
+
 
 
 #main-table {
