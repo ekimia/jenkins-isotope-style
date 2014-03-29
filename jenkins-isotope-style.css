@@ -13,10 +13,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #666666; }
 
-a:link {color: #6bbaed; font-weight: bold;}
-a:active {color: #6bbaed; font-weight: bold;}
-a:visited {color: #6bbaed; font-weight: bold;}
-a:hover {color: #64addd; font-weight: bolder;}
+a:link {color: #3591cb; font-weight: bold;}
+a:active {color: #3591cb; font-weight: bold;}
+a:visited {color: #3591cb; font-weight: bold;}
+a:hover {color: #3591cb; font-weight: bolder;}
 
 .top-sticker-inner {
   background: #EFEFEF;
