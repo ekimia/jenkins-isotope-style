@@ -1,49 +1,50 @@
-body {
-  background: #63818a;
-  background: -moz-linear-gradient(top, white 0%, white 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
-  background: -webkit-linear-gradient(top, white 0%, white 100%);
-  background: -o-linear-gradient(top, white 0%, white 100%);
-  background: -ms-linear-gradient(top, white 0%, white 100%);
-  background: linear-gradient(top, white 0%, #white 100%);
-  color: black;
-  font-family: Helvetica !important;
-   }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #4f7b94; }
-
-a:link {color: #6bbaed; font-weight: bold;}
-a:active {color: #6bbaed; font-weight: bold;}
-a:visited {color: #6bbaed; font-weight: bold;}
-a:hover {color: #64addd; font-weight: bolder;}
-
-.top-sticker-inner {
-  background: #EFEFEF;
-}
-
-#dashboard {
-    border: solid 1px #303e51;
+dy {
+  background: #f1f1f1;
 }
 
 #top-panel {
-  background: url("headerbackground.png"); }
+  background: none;
+  background-color: #dc0606;}
   #top-panel td#login-field span a {
-    background: none; }
+    background: none;
+   }
   #top-panel td #searchform a {
     background: none;
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("appkickJenkinsLogo.png") 0 0 no-repeat;
+    background: url("https://github-ca.corp.zynga.com/pages/wwf2/JenkinsTheme/images/zyngaLogo.png") 0 0 no-repeat;
     display: block;
-    width: 200px;
-    height: 56px;
-    margin: 10px 10px 10px 10px; }
+    width: 130px;
+    height: 35px;
+    margin: 0px 0 0px 0px; }
     #top-panel td > a img {
       display: none; }
 
+#left-top-nav {
+  border-left: none; }
 
+#side-panel {
+  background-color: #fff; }
+  #side-panel > div:not(#navigation) {
+    display: none; }
+  #side-panel .task a {
+    display: inline-block;
+    text-decoration: none;
+    width: 10%; }
+    #side-panel .task a + a {
+      width: 83%;
+      padding: 4px; }
+      #side-panel .task a + a:hover {
+        background-color: #e5e5e5; }
+    #side-panel .task a:hover {
+      text-decoration: underline; }
+
+#main-panel {
+  background: #fff; }
+  #main-panel > h1 {
+    margin-top: 0; }
 
 #main-table {
   border-top: 0;
@@ -53,8 +54,8 @@ a:hover {color: #64addd; font-weight: bolder;}
   font-size: 1.3em; }
 
 #footer {
-   border-top: none !important;
-}
+  border-top: 1px solid #ccc;}
 
 #view-message #description a img {
   padding-right: 4px; }
+
