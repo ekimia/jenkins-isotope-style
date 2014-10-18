@@ -60,6 +60,7 @@ dy {
   padding-right: 4px; }
   
 #jenkins-name-icon {
-margin-left: 0px;
+position: relative;
+top: 0px;
+left: 0px;
 }
-
